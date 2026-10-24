@@ -9,7 +9,7 @@ PCL（含官方版与社区版 CE）在新版本里移除了「Minecraft 下载 
 
 | 你用的是 | 下载 |
 | --- | --- |
-| 官方 PCL（Plain Craft Launcher 2） | `PCL2FIX_v5.2.4.zip` |
+| 官方 PCL（Plain Craft Launcher 2） | `PCL2FIX_v5.3.zip` |
 | PCL 社区版 CE（PCL2_CE_x64） | `PCL2CEFIX_v1.5.zip` |
 
 不确定是哪个？看启动器标题：带 `CE` 字样的用 CE 版，其余用官方版。
@@ -56,7 +56,7 @@ PCL 更新会把 exe 整个换掉，补丁随之消失。包里另附了启动�
 
 | 文件 | SHA256 |
 | --- | --- |
-| `PCL2FIX_v5.2.4.zip` | `28988025372D39B01B350F2C97FC5E8C837984B7ADCA4B6569DB0FBB5C39A512` |
+| `PCL2FIX_v5.3.zip` | `28988025372D39B01B350F2C97FC5E8C837984B7ADCA4B6569DB0FBB5C39A512` |
 | `PCL2CEFIX_v1.5.zip` | `74B9F50A7247CA25C91E157DEDEC9AEE339BBB4319A24FEDFC022304A1AB81CB` |
 
 **只从这里或指定的网盘下载。** 别人二次打包的"一键修复版/破解版/整合修复包"不要用。
